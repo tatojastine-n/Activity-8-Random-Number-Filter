@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Random Number Filter\bin\Debug\Random Number Filter.exe.config
+C:\Users\HP\source\repos\Random Number Filter\bin\Debug\Random Number Filter.exe
+C:\Users\HP\source\repos\Random Number Filter\bin\Debug\Random Number Filter.pdb
+C:\Users\HP\source\repos\Random Number Filter\obj\Debug\Random Number Filter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Random Number Filter\obj\Debug\Random Number Filter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Random Number Filter\obj\Debug\Random Number Filter.exe
+C:\Users\HP\source\repos\Random Number Filter\obj\Debug\Random Number Filter.pdb
